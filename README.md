@@ -6,5 +6,5 @@
 - [하티](https://github.com/sujin9/practice_branch/blob/dev/hottea.md)
 - 여우
 - [케로](https://github.com/sujin9/practice_branch/blob/dev/kero.md)
-- 이리내
-- 호이((https://github.com/sujin9/practice_branch/blob/dev/hoy.md))
+- [이리내](https://github.com/sujin9/practice_branch/blob/dev/%EC%9D%B4%EB%A6%AC%EB%82%B4.md)
+- [호이](https://github.com/sujin9/practice_branch/blob/dev/hoy.md)
