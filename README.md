@@ -8,3 +8,7 @@
 - [케로](https://github.com/sujin9/practice_branch/blob/dev/kero.md)
 - [이리내](https://github.com/sujin9/practice_branch/blob/dev/%EC%9D%B4%EB%A6%AC%EB%82%B4.md)
 - [호이](https://github.com/sujin9/practice_branch/blob/dev/hoy.md)
+
+## 팀원 역할
+- AN: 하티 로피 코비
+- BE: 여우 케로 이리내 호이
